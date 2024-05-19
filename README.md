@@ -23,8 +23,7 @@ Power BI Desktop:
 
 
 Steps:
-Clone the repository:
-git clone https://github.com/Muthuchitra@04/HealthGuard.git
+Clone the repository
 
 Set up the NodeMCU:
 Connect the sensors to the NodeMCU.
